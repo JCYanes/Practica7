@@ -30,7 +30,6 @@ describe NumRacionales do
 		@num.mostrarflotante
 	end
  	it "\n  Se debe comparar si dos fracciones son iguales con == "do
-		
  	end
 	it "\n Se debe calcular el valor absoluto de una fraccion con el metodo abs"do
 	end

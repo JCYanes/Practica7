@@ -23,6 +23,6 @@ class NumRacionales
 	end
 
 	def mostrarflotante
-		puts numRacional
+		puts "#{numerador}/#{denominador}"
 	end
 end
